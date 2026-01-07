@@ -7,52 +7,52 @@
 ## **EDUCATION**
 **Bachelor of Technology (B.Tech), Computer Science & Engineering**  
 Rajiv Gandhi Institute of Technology, Kottayam, Kerala  
-(Expected Graduation: 04-2028)
+(Expected Graduation: April 2028)
 
 ---
 
 ## **TECHNICAL SKILLS**
 **Languages:** Python, JavaScript, TypeScript, C, Java, Shell Scripting  
-**Web:** HTML5, CSS  
-**Tools & Frameworks:** MySQL  
-**AI/ML:** GPT-based APIs, LLM integration, NLP summarization  
-**Version Control:** Git, GitHub
+**Web:** HTML5, CSS3  
+**Databases:** MySQL  
+**AI / ML:** GPT-based APIs, LLM integration, NLP-based text summarization  
+**Tools:** Git, GitHub
 
 ---
 
 ## **PROJECTS**
 
-**Smart-Summarizer (AI-Powered Educational Summaries)**  
-- Built an **AI-driven web application** that converts long-form content into concise summaries and flashcards using JavaScript and LLM-based NLP APIs.  
-- Designed end-to-end flow from text ingestion to summarized output, improving content comprehension and learning efficiency.  
-- Implemented modern frontend stack (React/Vite/Tailwind) with clean UX and real-time AI responses.
+**Smart-Summarizer (AI-Powered Educational Tool)**  
+- Built an **AI-driven web application** that converts long-form educational content into concise summaries and flashcards using JavaScript and LLM-based APIs.  
+- Designed complete workflow from text input to summarized output, improving information comprehension and study efficiency.  
+- Implemented clean UI and API-based processing for real-time AI responses.
 
 **AI Resume Customizer**  
-- Developed an **AI-based resume customization tool** that dynamically adapts resumes to job descriptions using NLP and keyword alignment.  
-- Automated resume optimization to improve ATS compatibility and recruiter relevance.  
-- **Winner – College-Level Hackathon**, selected for technical impact and real-world applicability.
+- Developed an **AI-based resume optimization tool** that dynamically adapts resumes to job descriptions using NLP and keyword matching.  
+- Automated resume tailoring to improve ATS relevance and recruiter alignment.  
+- **Winner – College-Level Hackathon**, recognized for real-world usefulness and technical implementation.
 
 **Mediforever – Medical History Management Platform**  
-- Built a **full-stack medical history tracking web app** using TypeScript and Lovable for lifecycle-based health record management.  
-- Implemented responsive UI, structured data flows, and scalable architecture for long-term record storage.  
-- Focused on usability, data organization, and healthcare-oriented system design.
+- Built a **medical history tracking web application** to manage a person’s health records across their lifetime using TypeScript and database-backed storage.  
+- Designed structured data models and scalable flows for long-term medical record organization.  
+- Focused on usability, system design, and real-world healthcare application needs.
 
 **Impossible Maze Game**  
 - Designed and implemented an **interactive browser-based maze game** using JavaScript with real-time movement logic and collision detection.  
-- Engineered dynamic maze behavior where the environment reacts to user input, emphasizing event-driven programming.  
-- **Winner – State-Level Hackathon**, recognized for originality, game mechanics, and technical execution.
+- Engineered dynamic maze behavior where the environment reacts to user input, demonstrating event-driven programming concepts.  
+- **Winner – State-Level Hackathon**, awarded for originality, gameplay mechanics, and technical execution.
 
 ---
 
 ## **EXPERIENCE**
 **Software Developer (Academic & Hackathon Projects)**  
-Self-Directed | Remote  
-- Delivered multiple end-to-end software projects involving frontend, backend, and AI integration.  
-- Applied problem-solving, system design, and rapid prototyping in competitive hackathon environments.
+Self-Directed  
+- Delivered multiple end-to-end software projects involving frontend logic, backend processing, and AI integration.  
+- Applied rapid prototyping, debugging, and system thinking in competitive hackathon environments.
 
 ---
 
 ## **ACHIEVEMENTS**
 - **1st Place – State-Level Hackathon** for *Impossible Maze Game*.  
 - **Winner – College-Level Hackathon** for *AI Resume Customizer*.  
-- Demonstrated strong skills in rapid prototyping, system thinking, and production-ready code under time constraints.
+- Demonstrated strong problem-solving, system design, and execution under strict time constraints.
